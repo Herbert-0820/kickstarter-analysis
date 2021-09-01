@@ -26,6 +26,8 @@
 
 ### Analysis of Outcomes Based on Goals
 
+![alt text](https://github.com/Herbert-0820/kickstarter-analysis/blob/main/Outcomes%20Baes%20on%20Goal.png)
+
         First, set up and input the ranges
         second, countifs function to show number successful, failed, canceld for each range
         Third, sum funcation to calculate the total projects and then do the mate for rates
