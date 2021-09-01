@@ -17,7 +17,9 @@
         During the whole analysis, there is no data about the demographics. It is hard to target the group who tends to fund the campaign. Moving forward, it will be more helpful for the campaign to include mroe information about the demographic.
 
 ### Analysis of Outcomes Based on Launch Date
-        
+       
+![alt text](https://github.com/Herbert-0820/kickstarter-analysis/blob/main/Theater%20Outcomes%20by%20Launch%20Date.png)
+       
         First, the date transform function is used to make the date readable
         Second, the use the countifs function to calculate how many sucessful, failed, and cancel fo the dataset
         Third, group the data by successful, failed and canceled by months and filtered by parent catagory and year
